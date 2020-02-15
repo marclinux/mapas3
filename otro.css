@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+/*let marker = L.marker([16.7376, -92.6367]).addTo(myMap);*/
+#map { height: 98vh; width: 100hw; }
+select {
+  width: 90%;
+  font-size: 2rem
+} 
+
